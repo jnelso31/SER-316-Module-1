@@ -1,4 +1,5 @@
 .gradle/
+.RHistory
 build/
 .DS_Store
 *.class
