@@ -121,6 +121,7 @@ public class GameEngineTest {
         assertFalse(engine.isGameOver());
         engine.makeGuess(-1);
         assertEquals(0, engine.getAttempts());
+    }
     public void testHintVeryClose() {
         engine.setTarget(50);
         engine.makeGuess(60);
