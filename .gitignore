@@ -1,6 +1,6 @@
-*.HTML/
+*.html
+.Rhistory
 .gradle/
-*.RHistory/
 build/
 .DS_Store
 *.class
